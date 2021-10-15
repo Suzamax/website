@@ -1,0 +1,34 @@
+baseURL: "https://suzamax.one/"
+title: Carlos Cañellas
+paginate: 5
+theme: cactus
+
+
+googleAnalytics: UA-156070001-1
+disqusShortname: https-suzamax-one
+
+params:
+  description: "I'm an open-minded and curious guy, ready to learn and develop new things using the right tools.\nI currently study at University of Murcia and I develop sites, everything alonsgide my pet."
+  comments:
+    enabled: true
+  social:
+      - name: twitter
+        link: "https://twitter.com/Suzamax"
+      - name: instagram
+        link: "https://instagram.com/cct.suzamax"
+      - name: telegram-plane
+        link: "https://t.me/suzamax"
+      - name: github
+        link: "https://github.com/Suzamax"
+  colortheme: white # dark, light, white, or classic
+
+menu:
+    main:
+        - identifier: blog
+          name: blog
+          url: /posts/
+          weight: 10
+        - identifier: about
+          name: about me
+          url: /about/
+          weight: 20

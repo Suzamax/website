@@ -1,0 +1,68 @@
+#+title: About me
+#+subtitle: My curriculum
+#+author: Carlos Cañellas
+#+date: 2021-10-13
+
+
+[[/me_and_neko.jpeg]]
+
+
+* Who am I?
+Sysadmin, aspiring to be DevOps, frontend & backend web developer.
+
+I'm a curious person, always willing to learn something new, if I need to or just for fun.
+
+I started using computers so long ago (Windows 3.1!). Fascinated by what did that machine, I decided to use them and understand how they work, what I can do with them... I met Linux, OS X, and more, and I didn't stop learning!
+
+* What they say about me
+
+ #+BEGIN_QUOTE
+ Carlos is the ideal DevOps either for starting projects or updating existing ones. -- [[https://davidperez.me/][David Pérez (@davtun)]]
+ #+END_QUOTE
+
+ #+BEGIN_QUOTE
+ Carlos' guidance helped me improve my career -- [[https://www.linkedin.com/in/fernando-mar%C3%ADn-vega-9ab8a9167/][Fernando Marín]]
+ #+END_QUOTE
+
+* Degrees and experience
+I'm a Sysadmin titulated from IES Ingeniero de la Cierva. Currently studying CS degree at Universidad de Murcia.
+
+** Experience
+
+*** Software developer @ Capgemini - 2021                           :current:
+    Business Intelligence, troubleshooting.
+*** Professional formation's job training @ Grupo SYS4NET, S.L. - 2017
+    [[https://sys4net.com][Website]]
+Machine orchestration with Ansible, VPS creation and management, bare machine setup (CentOS 7).
+Docker, cloud computing, system optimization, troubleshooting.
+    
+** Education
+
+
+** Skills
+Operating systems, development, etc...
+
+*** Systems
+Windows, macOS, Linux (Debian, RHEL), Android, iOS
+
+*** Virtualization, Cloud...
+Docker, vmware, KVM/QEMU, OpenStack, Azure
+
+*** JavaScript
+React + Next.js, Node.js + Express.js / Koa
+
+*** PHP
+Laravel, Symfony
+
+*** Java
+Swing, Spring
+
+*** C/C++
+POSIX
+
+*** Soft, stylesheets
+HTTP REST API, algorithms, data structures, MVC
+**** CSS
+TailwindCSS, Tachyons, Bootstrap, Theme UI
+
+  

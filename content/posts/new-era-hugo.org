@@ -1,0 +1,23 @@
+#+title: New era: using Hugo as my page engine
+#+date: 2021-10-15
+#+tags[]: howto java api youtube
+
+Oh no, Carlos did it again...
+
+The thing is that I would like to blog more and make it simpler to use it. The previous version (source still available at [[https://github.com/Suzamax/suzamaxone_netlify][GitHub]]).
+
+Reasons? Let's see:
+
+* Less is more!
+
+I don't need a WOW-design for my website. Also, I was looking for a simpler website template engine. That's Hugo, and the Cactus theme suits perfectly my needs.
+
+* Org-mode + Emacs! :NICE:
+
+I tried Emacs and now I'm in love with it! As soon as I discovered Hugo supports Org-mode by default I decided I should make it my website's default engine.
+
+* Because it's free! :DOLLARZ:
+
+Let's be honest, I won't pay a cent for a PHP-powered server in order to run WordPress. I don't like it and it's even simpler for me to use Hugo since I do own a pipeline that fits perfectly on the free Netlify tier.
+
+So that's it, I like this better than anything else. Perhaps I'll design the next websites with Hugo, it's great!
