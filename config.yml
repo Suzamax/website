@@ -6,7 +6,7 @@ theme: cactus
 
 googleAnalytics: UA-156070001-1
 #disqusShortname: https-suzamax-one
-commentoUrl: https://suzamaxone-commento.herokuapp.com
+commentoUrl: "https://suzamaxone-commento.herokuapp.com"
 
 params:
   description: "I'm an open-minded and curious guy, ready to learn and develop new things using the right tools.\nI currently study at University of Murcia and I develop sites, everything alonsgide my pet."
