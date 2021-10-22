@@ -1,0 +1,18 @@
+#+title: Adding a new commenting system - Commento
+#+date: <2021-10-22 Fri>
+#+tags[]: blog hugo commento development dev 
+
+Recently i switched to Hugo and I thought Disqus would suit my needs, until I realized how fucked up is Disqus (thanks David!). Then I decided to change it to Commento.
+
+* Installation
+
+Easy: I used [[https://github.com/fidiego/commento-heroku][this]] and deployed to Heroku knowing by heart the URL i would be using for storing the website on it.
+  
+* Configuration
+
+  Easy: You add the website you want to manage on the leftmost part after registering - remember to disable registration after creating your admin account(s).
+
+* Now what?
+
+  You tell me, enjoy :P
+  
