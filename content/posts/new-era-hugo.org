@@ -1,6 +1,6 @@
 #+title: New era: using Hugo as my page engine
 #+date: 2021-10-15
-#+tags[]: howto java api youtube
+#+tags[]: blog hugo personal
 
 Oh no, Carlos did it again...
 

@@ -1,0 +1,16 @@
+#+title: Creating an application with Swing and Java 11 (part I)
+#+date: <2021-10-22 Fri>
+#+tags[]: java swing university
+#+draft: true
+
+I started a BD's assignment for a new application called AppVideo with a teammate (hey Jose!). It's used for the University Degree. It uses the YouTube API (as an already wrapped JAR library done by teachers) and it manages users and their relation with videos (playlists and so).
+
+* Environment stack :completed:
+
+  It mainly uses Java, even for the interface (it uses Swing). The development is done as an Eclipse project (due to project requirements). We don't care about the operating system as long as it has the JRE.
+
+* Architecture :brief:
+
+  MVC pattern is a MUST. We created this application with order in mind as it's needed for cleanness and ease of reading.
+
+*
