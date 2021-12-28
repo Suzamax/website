@@ -1,0 +1,21 @@
+#+title: Rescuing an old ThinkPad with Slackware
+#+date: <2021-12-28 mar>
+#+tags[]: slackware thinkpad old retro unixporn
+
+I have an old IBM ThinkPad of 2001 (T23) that, as nobody would be surprised, it still works! It had W2000 but it was cyphered (it was from my father's job, and he didn't remember the password) so I wiped it out (the BIOS wasn't password-protected :P) and I installed Slackware 14.2.
+
+Surprisingly, it works and it's relatively quick.
+
+* Tweaks
+
+I had to recue it due to the lack of CD/DVD players at home (yes, we could consider CDs obsolete), so it was the only player still working.
+
+I had tweaked mplayer's configuration to have a 10s cache.
+
+* Future tweaks
+
+I would increase its memory to one gigabyte, surprising for a computer this old.
+
+* Video
+
+SOON!
