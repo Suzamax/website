@@ -12,6 +12,8 @@ I had to recue it due to the lack of CD/DVD players at home (yes, we could consi
 
 I had tweaked mplayer's configuration to have a 10s cache.
 
+I also updated it to ~-current~, as it would be able to use ncspot.
+
 * Future tweaks
 
 I would increase its memory to one gigabyte, surprising for a computer this old.

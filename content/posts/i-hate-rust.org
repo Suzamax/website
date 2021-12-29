@@ -1,0 +1,23 @@
+#+title: I hate Rust
+#+date: <2021-12-29 mie>
+#+tags[]: thinkpad old retro unixporn rust hate pentium
+
+* I hate Rust.
+
+No, seriously, why are everybody so crazy about Rust, doing whatever with it?
+
+It's a mess to get something compiled for i586. They are proudly saying that they're the most efficient programming language in the world and so, but you can't have it in a Pentium III...
+
+* Solution?
+
+So I had to cross-compile some Rust applications (yes, ncspot) from my main laptop to get it working on my ThinkPad...
+
+And this madness is going further: Linux team are planning on integrating it. What happened with Torvalds?
+
+* What should we expect?
+
+Anyways, I'll stick with C. My two pennies on it that Rust integration in the Linux kernel would be a great fiasco.
+
+Fuck Rust.
+
+Also fuck Golang.
